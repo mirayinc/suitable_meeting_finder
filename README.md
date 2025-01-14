@@ -23,6 +23,10 @@ Feel free to reach out to me with any questions or feedback.
 
 
 
+
+
+
+
 ## 📋 Proje Açıklaması
 Ortak Buluşma Planlayıcı, başta kendi arkadaş çevrem olmak üzere buluşulabilecek en uygun zaman ve mekanı belirlemenize yardımcı olan dört sayfalık bir Streamlit uygulamasıdır. 
 Kullanıcılar, buluşma süresini, uygun oldukları zaman dilimlerini ve tercih ettikleri mekanları seçerek en iyi buluşma planını kolayca oluşturabilirler.
