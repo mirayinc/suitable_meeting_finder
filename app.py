@@ -218,7 +218,7 @@ def sayfa_4():
                     for m in mekan_listesi:
                         mekan_counter[m] += 1
                         
-        st.markdown(f"### {tarih_str} {gun_str} günü, \n###{blok} saatleri arasında {kisi_sayisi} kişi uygun")
+        st.markdown(f"### {tarih_str} {gun_str} Günü \n### {blok} saatleri arasında {kisi_sayisi} kişi uygun.")
         st.markdown("<br>", unsafe_allow_html=True)
 
         if mekan_counter:
