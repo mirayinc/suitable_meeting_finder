@@ -1,5 +1,12 @@
+# English
+
+## Suitable Meeting Finder
+You can access the final screens of the application from the link below.
+https://suitablemeetingfinder-noc5kri9uuwqjmr8v7evvy.streamlit.app/ 
+
+
 ## 📋 Project Description
-The Joint Meeting Planner is a four-page Streamlit application that helps you determine the most suitable time and place to meet, especially among your friends. Users can easily create the best meeting plan by selecting the meeting duration, the time slots they are available, and their preferred locations. You can also modify this code example according to your needs. This project includes keywords and explanations in my native language, Turkish.
+The Joint Meeting Planner is a four-page Streamlit application designed to help you determine the most suitable time and place to meet, primarily intended for use with my own circle of friends. Users can easily create the best meeting plan by selecting the duration of the meeting, their available time slots, and their preferred locations. You can also rearrange this code example to suit your own needs. This project contains keywords and descriptions in my native language, Turkish.
 
 ### 🚀 Features
 * Number of People and Meeting Duration Selection: Determine the number of participants for the meeting and the meeting duration.
@@ -9,10 +16,10 @@ The Joint Meeting Planner is a four-page Streamlit application that helps you de
 
 ### 🛠️ Installation and Usage
 Requirements
-Python 3.7 or above
-Streamlit
-Pandas
-Altair
+Python 3.7 or above,
+Streamlit,
+Pandas,
+Altair.
 
 ### 📄 License
 This project is licensed under the MIT License. You can refer to the LICENSE file for more information.
@@ -21,14 +28,17 @@ This project is licensed under the MIT License. You can refer to the LICENSE fil
 Feel free to reach out to me with any questions or feedback.
 
 
+# Türkçe
 
 
-
+## Uygun Buluşma Bulucu
+Uygulamanın son ekranlarına aşağıdaki linkten ulaşabilirsiniz.
+https://suitablemeetingfinder-noc5kri9uuwqjmr8v7evvy.streamlit.app/ 
 
 
 
 ## 📋 Proje Açıklaması
-Ortak Buluşma Planlayıcı, başta kendi arkadaş çevrem olmak üzere buluşulabilecek en uygun zaman ve mekanı belirlemenize yardımcı olan dört sayfalık bir Streamlit uygulamasıdır. 
+Ortak Buluşma Planlayıcı, başta kendi arkadaş çevremle kullanabileceğim şekilde tasarladığım buluşulabilecek en uygun zaman ve mekanı belirlemenize yardımcı olan dört sayfalık bir Streamlit uygulamasıdır. 
 Kullanıcılar, buluşma süresini, uygun oldukları zaman dilimlerini ve tercih ettikleri mekanları seçerek en iyi buluşma planını kolayca oluşturabilirler.
 Siz de bu kod örneğini kullanarak kendi ihtiyaçlarınıza göre tekrar düzenleyebilirsiniz.
 Bu proje kendi anadilim olan Türkçe anahtar kelimeler ve açıklamalar içermektedir. 
@@ -41,10 +51,10 @@ Bu proje kendi anadilim olan Türkçe anahtar kelimeler ve açıklamalar içerme
 
 ### 🛠️ Kurulum ve Kullanım
 Gereksinimler
-Python 3.7 veya daha üstü
-Streamlit
-Pandas
-Altair
+Python 3.7 veya daha üstü, 
+Streamlit,
+Pandas,
+Altair.
 
 ### 📄 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasına bakabilirsiniz.
