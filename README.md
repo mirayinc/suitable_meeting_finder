@@ -2,6 +2,7 @@
 
 ## Suitable Meeting Finder
 You can access the final screens of the application from the link below.
+<br>
 https://suitablemeetingfinder-noc5kri9uuwqjmr8v7evvy.streamlit.app/ 
 
 
@@ -27,12 +28,15 @@ This project is licensed under the MIT License. You can refer to the LICENSE fil
 ### 📫 Contact
 Feel free to reach out to me with any questions or feedback.
 
+<br>
+<br>
 
 # Türkçe
 
 
 ## Uygun Buluşma Bulucu
 Uygulamanın son ekranlarına aşağıdaki linkten ulaşabilirsiniz.
+<br>
 https://suitablemeetingfinder-noc5kri9uuwqjmr8v7evvy.streamlit.app/ 
 
 
